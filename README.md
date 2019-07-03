@@ -1,4 +1,4 @@
-# code-algo
+# algo-code
 self-made machine learn algorithm
 
 
